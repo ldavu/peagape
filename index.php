@@ -1,5 +1,5 @@
 <?php
-/*
+
 $usuario = "Davi";
 $senha = 123;
 
@@ -12,7 +12,7 @@ else
 {
   echo "inválido";
 }
-*/
+
 $a = 203;
 
 switch($a)
